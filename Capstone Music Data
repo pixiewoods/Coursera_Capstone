@@ -1,0 +1,19 @@
+Data Description
+
+San Francisco Neighborhoods
+This data contains neighborhood geo boundaries. 
+    https://data.sfgov.org/Geographic-Locations-and-Boundaries/Analysis-Neighborhoods/p5b7-5n3h
+
+San Francisco Crime Dataset (2018 – Present)
+Crime data includes neighborhood.
+  https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783
+
+Foursquare Venue Data
+Foursquare venues will be collected for neighborhoods within San Francisco.  This data will help to illustrate the music club 
+competitors.  Categories searched will include music venue and performing arts venue.
+
+Data Usage
+
+I’m not finding available free demographic data, so I’ll go with using just crime reports and Foursquare venue data.  
+I’ll segment neighborhoods by crime level and presence of existing clubs.  Quite simply, a low crime and low venue count 
+neighborhood will be considered ideal for a new venue.
